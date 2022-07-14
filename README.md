@@ -5,10 +5,9 @@
 		<strong>Solana Vouchers</strong>
 	</p>
 	<p>
-		<img src="https://img.shields.io/github/issues/SolanaPH/solana-vouchers?style=for-the-badge" alt="Issues">
-		<img src="https://img.shields.io/twitter/follow/k_quirapas?color=%2300acee&style=for-the-badge" alt="Twitter">
-		<img src="https://img.shields.io/github/commit-activity/w/SolanaPH/solana-vouchers?style=for-the-badge" alt="Commit Activity">
-		<img src="https://img.shields.io/github/license/SolanaPH/solana-vouchers?style=for-the-badge" alt="License">
+		<img src="https://img.shields.io/github/issues/solana-philippines/solana-vouchers?style=for-the-badge" alt="Issues">
+		<img src="https://img.shields.io/github/commit-activity/w/solana-philippines/solana-vouchers?style=for-the-badge" alt="Commit Activity">
+		<img src="https://img.shields.io/github/license/solana-philippines/solana-vouchers?style=for-the-badge" alt="License">
 	</p>
 </div>
 
@@ -19,7 +18,7 @@ Thank you for your interest in contributing to Paper! Please see [CONTRIBUTING.m
 
 ## Much love to these people
 <div align="left">
-<a href="https://github.com/SolanaPH/solana-vouchers/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kquirapas/solana-vouchers" />
+<a href="https://github.com/solana-philippines/solana-vouchers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=solana-philippines/solana-vouchers" />
 </a>
 </div>
